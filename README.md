@@ -26,8 +26,6 @@ Currently authoring The Equilibrium of Life, a philosophical work for high-agenc
 
 ---
 
-## 📈 GitHub Stats  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohamedAziz-bousbih&show_icons=true&theme=radical)
 
 ---
 
