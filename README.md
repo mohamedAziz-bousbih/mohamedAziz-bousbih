@@ -6,7 +6,7 @@ Berlin, Germany · azizbousbih10@gmail.com
 ---
 
 I study embedded systems and build things at the hardware/software boundary.  
-My focus is firmware, communication protocols, and low-level C/C++.  
+My focus is firmware, communication protocols, and  C/C++.  
 When I'm not writing code for microcontrollers, I work on the tools that make embedded development less painful.
 
 ---
